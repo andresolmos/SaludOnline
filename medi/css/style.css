@@ -643,6 +643,9 @@ h5.digital_text {
      width: 100%;
      float: left;
 }
+.footer_logo a img{
+     height: 20vh;
+}
 .footer_text{
      width: 100%;
      float: left;
